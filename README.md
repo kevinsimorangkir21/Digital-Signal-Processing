@@ -21,9 +21,9 @@ This branch contains assignment files starting from the first week to the last w
 
 The following is a PDF attachment of the assignments carried out in class, namely:
 
-| Practice Subjects | PDF |
+| Practice Subjects | File |
 | :---: | :---: |
-| Class Exercise 1    |  |
+| Class Exercise 1    | https://github.com/kevinsimorangkir21/Multimedia-Technology/archive/refs/tags/PDF.zip |
 | Class Exercise 2    |  |
 | Class Exercise 3    |  |
 | Class Exercise 4    |  |
