@@ -15,16 +15,16 @@
 
 ## Description
 
-This course discusses the concepts of multimedia data such as text, sound, image, and video data, to combine them into one integrated multimedia system. The concepts presented in this course are intended for students who want to study multimedia scientifically. In addition to discussing multimedia concepts scientifically, there is a practical side, namely in the use of tools to manipulate multimedia data and also existing integrated multimedia systems.
+This course discusses the concepts of multimedia data such as text, sound, image, and video data, to combine them into an integrated multimedia system. The concepts presented in this course are intended for students who want to study multimedia scientifically. In addition to discussing multimedia concepts scientifically, there is a practical side, namely in the use of tools to manipulate multimedia data and also existing integrated multimedia systems.
 
 
 ## Instruction
-To access this repository, please access the branch which consists of 2 branches, namely `Class Exercise` and `Weekly Assignment`. You can see the explanation in the following table.
+To access this repository, please access the branch which consists of 2 branches, namely `Class Activity` and `Hands On`. You can see the explanation in the following table.
 <div align="center">
 
 | Branch | Detail |
 | :---: | :---: | 
-| Class Exercise     | This branch contains exercises that are done during class / during the lecturer's teaching. |
-| Weekly Assigment   | This branch contains assignments given by lecturers called Hands On. |
+| Class Activity     | This branch contains exercises that are done during class / during the lecturer's teaching. |
+| Hands On   | This branch contains assignments given by lecturers called Hands On. |
 
 </div>
