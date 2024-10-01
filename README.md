@@ -20,7 +20,7 @@ This course discusses the concepts of multimedia data such as text, sound, image
 
 ## Instruction
 To access this repository, please access the branch which consists of 2 branches, namely `Class Activity` and `Hands On`. You can see the explanation in the following table.
-<div align="center">
+<div align="left">
 
 | Branch | Detail |
 | :---: | :---: | 
