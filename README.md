@@ -24,7 +24,7 @@ Attached are the results of the work for the 'Hands On' Branch which are summari
 
 | Subject (Hands On) | URL (PDF) | Deadline| Status |
 | :---: | :---: | :---: | :---: |
-| Hands On 1     | https://github.com/kevinsimorangkir21/Multimedia-Technology/releases/download/PDF/121140150_HO.1.pdf | Friday, 4 August 2024 | **DONE** |
+| Hands On 1     | https://bit.ly/HandsOn-PDF | Friday, 4 August 2024 | **DONE** |
 | Hands On 2     | - | - | - |
 | Hands On 3     | - | - | - |
 | Hands On 4     | - | - | - |
