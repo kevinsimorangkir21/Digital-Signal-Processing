@@ -23,11 +23,7 @@ Attached are the results of the work for the 'Hands On' Branch which are summari
 
 | Subject (Hands On) |          URL (PDF)          |         Deadline         |     Status     |
 | :----------------: | :-------------------------: | :----------------------: | :-------------: |
-|     Hands On 1     | https://bit.ly/HandsOn-PDF |  Friday, 4 August 2024  | **DONE** |
+|     Hands On 1     | https://bit.ly/HandsOn-PDF  |  Friday, 4 August 2024  | **DONE** |
 |     Hands On 2     | https://bit.ly/HandsOn2-PDF | Friday, 1 November 2024 | **DONE** |
-|     Hands On 3     |              -              | Friday, 29 November 2024 | *ON PROGRESS* |
-|     Hands On 4     |              -              |            -            |        -        |
-|     Hands On 5     |              -              |            -            |        -        |
-|     Hands On 6     |              -              |            -            |        -        |
-
+|     Hands On 3     | https://bit.ly/HandsOn3-PDF | Friday, 29 November 2024| **DONE** |
 </div>
